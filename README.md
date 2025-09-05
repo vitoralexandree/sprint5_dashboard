@@ -19,10 +19,10 @@ streamlit run app.py
 
 🔗 Links
 
-App no Render: https://<APP_NAME>.onrender.com/
+## 🔗 Links
+- App no Render: https://sprint5-dashboard-ek7h.onrender.com/
+- Repositório: https://github.com/vitoralexandree/sprint5_dashboard
 
-Repositório: https://github.com/
-<seu-usuario>/sprint5_dashboard
 
 🧰 Tecnologias
 
